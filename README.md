@@ -1,14 +1,17 @@
 # CalculatorApp
 Calculator App for Android
 
-## Step 1. Creating a simple calculator
+## Step 2. Converting the calculator to PostFix Notation
 
 Compile with $ `g++ main.cpp -o calc`
 Run with $ `./calc` or `./calc.exe`
 
-Pick +, -, *, / and two numbers.
+Enter the equation in RPN form, e.g. 2 2 +
 
-Yes, this is a CS1 level program.
-Yes, this is written for the desktop. The parser will be developed on the desktop until it's reached a proper level of completion. This is done to expedite the development.
+You must include spaces between each token.
+
+Accepts double precision numbers and the following operators +, -, *, /, ^, %
+
+Still a very simple program, but it is increasing in complexity.
 
 Follow along at https://voat.co/v/learnprogramming
