@@ -1,7 +1,9 @@
 # CalculatorApp
 Calculator App for Android
 
-## Step 2. Converting the calculator to PostFix Notation
+## Step 2.5 Converting the calculator to PostFix Notation
+
+Cleaned up version of Step 2
 
 Compile with $ `g++ main.cpp -o calc`
 Run with $ `./calc` or `./calc.exe`
