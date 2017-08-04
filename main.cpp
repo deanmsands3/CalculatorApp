@@ -73,7 +73,7 @@ int main(int argc, char *args[]){
 	//Variables
 	string token_string;
 	//Read in operation
-	while(std::getline(std::cin, token_string)){
+	while(getline(cin, token_string)){
 		//Convert to stream
 		istringstream token_stream(token_string);
 		string token;
